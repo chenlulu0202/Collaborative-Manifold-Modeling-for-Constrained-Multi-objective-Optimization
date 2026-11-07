@@ -10,6 +10,5 @@ Baseline algorithm interfaces (C-TAEA, PPS, ToP, CCMO, CMOES, MOEA/D-2WA, MACA, 
 Benchmark problem suites (MW, LIRCMOP, DASCMOP)
 Parameter configuration files
 Raw run-level results (HV, IGD, convergence curves)
-Reproduction instructions
 
 This README will be updated once the paper is accepted and the code is made publicly available.
